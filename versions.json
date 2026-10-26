@@ -4,13 +4,8 @@
       "version": "v0.1.12-test",
       "ota": {
         "path": "guition-esp32-p4-jc8012p4a1.ota.bin",
-<<<<<<< HEAD
-        "md5": "732beb5d7244a331daa49dfd88f0da31",
-        "release_url": "https://github.com/prucho2/JC8012-Projekt-2026"
-=======
-        "md5": "3dce099b34a5844dbef2e5a38f349913",
+        "md5": "8f0bbd0976396d21ecd91ed1e9e0e9d7",
         "release_url": "https://github.com/prucho2/Prugo-Screen-Firmware"
->>>>>>> 2b7e0be (Build full JC8012 Home firmware)
       }
     }
   ]
