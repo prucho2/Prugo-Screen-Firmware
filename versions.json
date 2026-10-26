@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "v0.1.11-test",
+      "ota": {
+        "path": "guition-esp32-p4-jc8012p4a1.ota.bin",
+        "md5": "732beb5d7244a331daa49dfd88f0da31",
+        "release_url": "https://github.com/prucho2/JC8012-Projekt-2026"
+      }
+    }
+  ]
+}
