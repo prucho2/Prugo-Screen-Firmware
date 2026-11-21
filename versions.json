@@ -1,10 +1,10 @@
 {
   "versions": [
     {
-      "version": "v0.1.31-diag",
+      "version": "v0.1.32-diag",
       "ota": {
         "path": "guition-esp32-p4-jc8012p4a1.ota.bin",
-        "md5": "e548a0de459689b5aac444e875d2f4d5",
+        "md5": "69bef4b2105448041f84267f27cba734",
         "release_url": "https://github.com/prucho2/Prugo-Screen-Firmware"
       }
     }
