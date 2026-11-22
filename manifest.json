@@ -1,13 +1,13 @@
 {
   "name": "Prugo-Screen for Home Assistant",
-  "version": "v0.1.35-diag",
+  "version": "v0.1.36-diag",
   "home_assistant_domain": "esphome",
   "builds": [
     {
       "chipFamily": "ESP32-P4",
       "ota": {
         "path": "guition-esp32-p4-jc8012p4a1.ota.bin",
-        "md5": "3e965e70a4fe4cf7662283cfd2291b27",
+        "md5": "196d1458f0aff711cf0c93208c95ab30",
         "release_url": "https://github.com/prucho2/Prugo-Screen-Firmware"
       }
     }
